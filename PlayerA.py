@@ -5,7 +5,7 @@ import time
 import math
 import matplotlib.pyplot as plt
 
-# Nassim Maluli - Uni Marburg - team28 - Matr-Nr 3216710
+# Nassim Maluli
 # we implement the MiniMax algorithm + alpha-Beta pruning
 if (len(sys.argv) < 3):
     print("PlayerA.py STATEFILE MOVEFILE")
